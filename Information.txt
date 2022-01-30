@@ -1,0 +1,35 @@
+========================================================
+
+      Candidate Management Portal
+
+=========================================================
+
+1) Files outside admin folder except database folder are for Client side (Candidate Submission)
+
+2) This Assignment is made by using PHP, Javascript(including JQuery, Bootstrap) and MySQL/MariaDB, works using XAMPP
+
+3) Admin Login through : localhost/Candidate_Management_Portal/admin
+
+4) Candidates can Apply using : localhost/Candidate_Management_Portal/
+
+
+How to USE:
+
+i) install PHP and SQL in XAMPP and start them both.
+
+ii) go to localhost/phpmyadmin in browser.
+
+iii) create a database named recruitment_db and import recruitment_db.sql from database folder.
+
+iv) Now, login through localhost/Candidate_Management_Portal/admin.
+
+v) Admin Login Details: username: Admin
+ 			password: Admin_Login
+
+(Can be Changed using PHP My Admin)
+
+vi) Thanks to 
+Vijay Lakshmi - Team Lead - Vijay Lakshmi
+Naga Babu - Content Maker - Naga Babu
+Krishna Teja - Tester - Krishna Teja
+Siri Lalitha Adapa - DevOps - sirilalithaadapa  (https://github.com/sirilalithaadapa/Recruitment_Management_System)
